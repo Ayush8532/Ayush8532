@@ -1,8 +1,8 @@
 ![banner](./banner.png)
 
-# Hey there, I am Abhay Bhardwaj👋!
+# Hey there, I am Ayush Uniyal👋!
 
-I’m a MERN Developer and CS underGrad living in Uttrakhand,India.
+I’m a MERN Developer and CS Grad living in Uttarakhand,India.
 here are my [portfolio](https://abhaybhardwaj.me/) and [leetcode](https://leetcode.com/iamabhay17/) links check them out.
 
 ## 🛠 Tech stuff i know 
